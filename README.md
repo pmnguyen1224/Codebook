@@ -1,2 +1,2 @@
 # Codebook
-Helper functions for tidying, calculating different types of data
+Helper functions for tidying and calculating different types of data
